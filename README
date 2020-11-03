@@ -1,0 +1,7 @@
+1. We have three arguments:
+	$1 Number of players or hippos (Default: 50)
+	$2 Number of marbles (Default: 1000)
+	$3 Rounds (Default: 5)
+2. Compile by entering command 'gcc ./hippos.c -o hippos'
+3. Now run the code:
+	./hippos $1 $2 $3
